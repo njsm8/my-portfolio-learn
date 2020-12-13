@@ -11,6 +11,10 @@ body {
     margin: 0px;
 }
 
+.heading-blog{
+    text-align: right;
+}
+
 .container {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -49,6 +53,7 @@ body {
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 }
+
 
 .list-non-bullet {
     list-style: none;
