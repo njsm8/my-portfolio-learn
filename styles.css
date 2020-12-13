@@ -136,3 +136,8 @@ body {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.line-break {
+    width: auto;
+    word-wrap: normal;
+}
