@@ -21,6 +21,14 @@ body {
     margin: auto;
 }
 
+.project-sec {
+    padding: 2rem;
+}
+
+.project-sec ul {
+    padding-inline-start: 0px;
+}
+
 .link {
     text-decoration: none;
     padding: 0.5rem 1rem;
